@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: memup4s88-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/memup4s88-java-springboot
